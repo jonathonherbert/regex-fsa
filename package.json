@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@types/jest": "^24.0.25",
+    "jest": "^24.9.0",
+    "ts-jest": "^24.2.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-typescript": "^7.7.7",
+    "@types/node": "^13.1.4",
+    "babel-plugin-dynamic-import-node": "^2.3.0",
+    "typescript": "^3.7.4"
+  }
+}
